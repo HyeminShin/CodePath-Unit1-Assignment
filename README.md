@@ -27,4 +27,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="http://g.recordit.co/cjoUUUptuJ.gif" width=250><br>
 
 ### Notes
-.
+one of my challenge was controlling the layout of the table view of movie cell. 
+Also, I had some issue with my computer, I was unable to utilize cocoapod to user can view the movie poster for each movie while using app.
+I will update this issue once I fix my computer.
