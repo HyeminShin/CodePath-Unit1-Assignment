@@ -32,7 +32,7 @@ Also, I will work on bonus part in other week.
 ## Flix Part 1
 
 ### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after checking off completed user stories)
+
 
 #### REQUIRED (10pts)
 - [X] (2pts) User sees an app icon on the home screen and a styled launch screen.
